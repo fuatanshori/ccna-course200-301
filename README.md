@@ -3,4 +3,4 @@ Saya sedang aktif mengikuti kursus Cisco CCNA 200-301. CCNA (Cisco Certified Net
 
 Kursus ini mencakup berbagai aspek jaringan, termasuk konfigurasi perangkat Cisco, pemahaman dasar jaringan, protokol routing, keamanan, dan banyak lagi. Selama kursus, saya akan terlibat dalam berbagai tugas, proyek, dan studi kasus yang dirancang untuk meningkatkan pemahaman saya tentang topik-topik ini.
 
-Saya sangat bersemangat untuk membagikan pengalaman dan pengetahuan yang saya dapatkan melalui repositori ini dan berharap dapat menjadikan kursus Cisco CCNA 200-301 sebagai langkah pertama menuju karir yang sukses di bidang jaringan. Terima kasih telah mengunjungi repositori in.
+Saya sangat bersemangat untuk membagikan pengalaman dan pengetahuan yang saya dapatkan melalui repositori ini dan berharap dapat menjadikan kursus Cisco CCNA 200-301 sebagai langkah pertama menuju karir yang sukses di bidang jaringan. Terima kasih telah mengunjungi repositori ini.
