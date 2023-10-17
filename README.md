@@ -1,5 +1,5 @@
 ## Kursus Cisco CCNA 200-301
-Saya sedang aktif mengikuti kursus Cisco CCNA 200-301. CCNA (Cisco Certified Network Associate) adalah salah satu sertifikasi yang paling dihormati di dunia jaringan komputer. Kursus ini bertujuan untuk mempersiapkan saya dalam mengetahui pengetahuan dan keterampilan yang diperlukan untuk menjadi seorang profesional jaringan yang berkualitas.
+Saya sedang aktif mengikuti Kursus Cisco CCNA 200-301. CCNA (Cisco Certified Network Associate) adalah salah satu sertifikasi yang paling dihormati di dunia jaringan komputer. Kursus ini bertujuan untuk mempersiapkan saya dalam mengetahui pengetahuan dan keterampilan yang diperlukan untuk menjadi seorang profesional jaringan yang berkualitas.
 
 Kursus ini mencakup berbagai aspek jaringan, termasuk konfigurasi perangkat Cisco, pemahaman dasar jaringan, protokol routing, keamanan, dan banyak lagi. Selama kursus, saya akan terlibat dalam berbagai tugas, proyek, dan studi kasus yang dirancang untuk meningkatkan pemahaman saya tentang topik-topik ini.
 
