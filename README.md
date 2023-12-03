@@ -35,6 +35,6 @@ Kursus ini mencakup berbagai aspek jaringan, termasuk:
 
 Selama kursus, saya akan terlibat dalam berbagai tugas, proyek, dan studi kasus yang dirancang untuk meningkatkan pemahaman saya tentang topik-topik ini.
 
-## Kontribusi
+## Harapan
 
 Semoga kursus Cisco CCNA 200-301 bisa menjadi langkah pertama menuju karir yang sukses di bidang jaringan. Terima kasih telah mengunjungi repositori ini.
